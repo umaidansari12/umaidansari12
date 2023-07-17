@@ -95,6 +95,7 @@ I have experience with Frontend technologies, like React, NextJS. Although I als
 
 ### 📝 Let's connect
 
+[<img align = "left" alt="umaidansari123 | Gmail" width="40px" src="https://img.icons8.com/color/48/gmail-new.png"/>][gmail]
 [<img align="left" alt="umaidansari123 | Medium" width="40px" src="https://img.icons8.com/nolan/50/medium-new.png" />][medium]
 [<img align="left" alt="MohammadUmaid12 | Twitter" width="40px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
 [<img align="left" alt="umaidansari123 | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
@@ -103,7 +104,7 @@ I have experience with Frontend technologies, like React, NextJS. Although I als
 [<img align="left" alt="mohammad-umaid-ansari | StackExchange" width="40px" src="https://img.icons8.com/color/48/stackexchange.png"/>][stackexchange]
 <br>
 
-
+[gmail]: mailto:umaidansari123@gmail.com
 [twitter]: https://twitter.com/MohammadUmaid12
 [medium]: https://medium.com/@umaidansari123
 [instagram]: https://www.instagram.com/umaid_ansari_12/
