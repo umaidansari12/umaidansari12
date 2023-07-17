@@ -1,6 +1,8 @@
 ## Hi there 👋
 My name is [Mohammad Umaid Ansari](https://mohammadumaidansari.netlify.app/). I'm a currently working as Software Engineer at Vahan Inc.
-![]()
+
+[![Access My Resume](https://img.shields.io/badge/Access%20My%20Resume-4267B2)](https://umaidansari12.github.io/portfolio/resume/mohammad_umaid_ansari_resume.pdf)
+
 
 Here's a crisp view of who I am, what I do and what I am looking for.<br>
 * 👨‍💻 Results-driven software engineer with 1+ year of professional experience. <br>
@@ -12,6 +14,7 @@ Here's a crisp view of who I am, what I do and what I am looking for.<br>
 * 📶 Seeking opportunities to contribute to innovative projects and further develop technical expertise in a fast-paced work environment. <br>
 * 📲 Eager to connect with industry professionals and explore potential collaborations.<br>
 * 🌐 Find my web portfolio here: https://mohammadumaidansari.netlify.app/
+
 
 <!--
 **umaidansari12/umaidansari12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -83,6 +86,7 @@ I have experience with Frontend technologies, like React, NextJS. Although I als
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=flat-square&logo=rabbitmq&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
@@ -113,6 +117,8 @@ I have experience with Frontend technologies, like React, NextJS. Although I als
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srivastavayushi&repo=Expense-Tracker&show_icons=true&theme=radical)](https://github.com/srivastavayushi/Expense-Tracker) --> 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=umaidansari12)
+![Github stats](https://github-readme-stats.vercel.app/api?username=umaidansari12&theme=react)
+
+[![Umaid's github language graph](https://github-readme-stats.vercel.app/api/top-langs/?username=umaidansari12&layout=compact&theme=react)](https://github-readme-stats.vercel.app/api/top-langs/?username=umaidansari12&layout=compact&theme=react)
 
 [![Umaid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=umaidansari12&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
