@@ -1,5 +1,6 @@
 ## Hi there 👋
 My name is [Mohammad Umaid Ansari](https://mohammadumaidansari.netlify.app/). I'm a currently working as Software Engineer at Vahan Inc.
+![]()
 
 Here's a crisp view of who I am, what I do and what I am looking for.<br>
 * 👨‍💻 Results-driven software engineer with 1+ year of professional experience. <br>
@@ -42,22 +43,19 @@ Here are some ideas to get you started:
 <!-- ## My Work
 I have experience with Frontend technologies, like React, NextJS. Although I also have some experience with Node.js and Express, mostly I work with frontend technologies only. Recently, I have also started going through computer fundamentals like computer networks, database management and operating system. Would love your advice on how to practice data structures and algorithms efficiently ! -->
 
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srivastavayushi&repo=EdiQL&show_icons=true&theme=radical)](https://github.com/srivastavayushi/EdiQL)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srivastavayushi&repo=Expense-Tracker&show_icons=true&theme=radical)](https://github.com/srivastavayushi/Expense-Tracker) -->
-
-<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=srivastavayushi&theme=react-dark)](https://github.com/srivastavayushi/github-readme-activity-graph) -->
-
 ### :coffee: Languages 
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=white)
-![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white
+)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 
 ### :fire: Frameworks/Libraries
@@ -66,31 +64,55 @@ I have experience with Frontend technologies, like React, NextJS. Although I als
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Material-UI](https://img.shields.io/badge/-Material%E2%80%93UI-0081CB?style=flat-square&logo=material-ui)
-![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=ffffff)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-squar&logo=styled-components&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
-![Expressjs](https://img.shields.io/badge/Express.js-404D59?style=flat-square&express&logoColor=ffffff)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+
 
 ### 🛠 Tools and Technologies
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=flat-square&logo=rabbitmq&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Shell Scripting](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 ### 📝 Let's connect
 
-[<img align="left" alt="ayushimanoj1201 | Medium" width="40px" src="https://img.icons8.com/nolan/50/medium-new.png" />][medium]
-[<img align="left" alt="AyushiS38583735 | Twitter" width="40px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
-[<img align="left" alt="srivayushi | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="_ayyuuuu_ | Instagram" width="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="umaidansari123 | Medium" width="40px" src="https://img.icons8.com/nolan/50/medium-new.png" />][medium]
+[<img align="left" alt="MohammadUmaid12 | Twitter" width="40px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
+[<img align="left" alt="umaidansari123 | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="umaid_ansari_12 | Instagram" width="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="mohammad-umaid-ansari | StackOverflow" width="40px" src="https://img.icons8.com/color/48/stackoverflow.png" />][stackoverflow]
+[<img align="left" alt="mohammad-umaid-ansari | StackExchange" width="40px" src="https://img.icons8.com/color/48/stackexchange.png"/>][stackexchange]
+<br>
 
 
-[twitter]: https://twitter.com/AyushiS38583735
-[medium]: https://medium.com/@ayushimanoj1201
-[instagram]: https://www.instagram.com/_ayyuuuu_/
-[linkedin]: https://www.linkedin.com/in/srivayushi/
+[twitter]: https://twitter.com/MohammadUmaid12
+[medium]: https://medium.com/@umaidansari123
+[instagram]: https://www.instagram.com/umaid_ansari_12/
+[linkedin]: https://www.linkedin.com/in/umaidansari123/
+[stackoverflow]: https://stackoverflow.com/users/11865693/mohammad-umaid-ansari
+[stackexchange]: https://stackexchange.com/users/16425530/mohammad-umaid-ansari
+
+
+<br>
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srivastavayushi&repo=EdiQL&show_icons=true&theme=radical)](https://github.com/srivastavayushi/EdiQL)
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srivastavayushi&repo=Expense-Tracker&show_icons=true&theme=radical)](https://github.com/srivastavayushi/Expense-Tracker) --> 
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=umaidansari12)
+
+[![Umaid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=umaidansari12&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
