@@ -5,7 +5,7 @@ My name is [Mohammad Umaid Ansari](https://mohammadumaidansari.netlify.app/). I'
 
 
 Here's a crisp view of who I am, what I do and what I am looking for.<br>
-* 👨‍💻 Results-driven software engineer with 1+ year of professional experience. <br>
+* 👨‍💻 Results-driven software engineer with 3+ year of professional experience. <br>
 * 💻 Proficient in full-stack development, specializing in Python and JavaScript. <br>
 * ⌨ Strong foundation in software development best practices and agile methodologies.<br>
 * 🤓 Collaborative team player with excellent problem-solving abilities, analytical and reasoning skills.<br>
