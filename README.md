@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is [Mohammad Umaid Ansari](https://mohammadumaidansari.netlify.app/). I'm a currently working as Software Engineer at Vahan Inc.
+My name is [Mohammad Umaid Ansari](https://mohammadumaidansari.netlify.app/). I'm a currently working as Software Engineer - 2 at PlumHQ.
 
 [![Access My Resume](https://img.shields.io/badge/Access%20My%20Resume-4267B2)](https://umaidansari12.github.io/portfolio/resume/mohammad_umaid_ansari_resume.pdf)
 
