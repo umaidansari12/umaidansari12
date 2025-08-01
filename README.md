@@ -47,9 +47,10 @@ Here are some ideas to get you started:
 I have experience with Frontend technologies, like React, NextJS. Although I also have some experience with Node.js and Express, mostly I work with frontend technologies only. Recently, I have also started going through computer fundamentals like computer networks, database management and operating system. Would love your advice on how to practice data structures and algorithms efficiently ! -->
 
 ### :coffee: Languages 
-
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=white)
